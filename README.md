@@ -1,4 +1,4 @@
-# lecture_41_JS_Events_Ascent_and_dive  
+# lecture_43_JS_Events_Ascent_and_dive  
 
 При наступлении события – самый глубоко вложенный элемент, на котором оно произошло, помечается как «целевой» (**event.target**).  
 
