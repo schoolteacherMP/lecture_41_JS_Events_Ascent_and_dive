@@ -22,7 +22,7 @@
 Всплытие и погружение являются основой для «делегирования событий» – очень мощного приёма обработки событий.   
 
 # lecture_43_JS_Events_Event_Delegation  
-#  [Задачи ](https://github.com/schoolteacherMP/lecture_43_JS_Events_Event_Delegation/blob/main/tasks.md)  
+#  [Задачи ](https://github.com/schoolteacherMP/lecture_42-43_JS_Events_Ascent_and_dive_Events__Delegation/blob/main/tasks.md)  
 
 Делегирование событий – это здорово! Пожалуй, это один из самых полезных приёмов для работы с DOM.  
 
